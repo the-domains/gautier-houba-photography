@@ -16,4 +16,7 @@ navigation:
   - name: Artists at work
     id: 6ed3b816-a39d-401f-9b58-6732d6ad5096
     type: content
+  - name: Street Art / Graffiti
+    id: 893fa1ba-13ed-4253-b941-9eb2293e6c0b
+    type: content
 title: Gautier Houba Photography
