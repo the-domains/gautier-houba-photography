@@ -1,15 +1,15 @@
-typography_spectrum: 0.7873829733580351
+layout_spectrum: 0.07654046802781522
+typography_spectrum: 0.25563974864780903
 color:
-  brandStrength: 0.34504110226407647
-  lightness: 0.1388639237266034
-  saturation: 0.6502239187248051
-  rhythmicContrast: 0.5548904887400568
+  brandStrength: 0.03885311330668628
+  lightness: 0.5155819884967059
+  saturation: 0.9040965258609504
+  rhythmicContrast: 0.762865160824731
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.31275514396838844
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Gautier Houba
 title: Gautier Houba Photography
