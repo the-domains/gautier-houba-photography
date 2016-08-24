@@ -6,9 +6,9 @@ color:
   saturation: 0.6502239187248051
   rhythmicContrast: 0.5548904887400568
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Gautier Houba Photography
