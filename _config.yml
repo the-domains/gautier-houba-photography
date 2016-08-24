@@ -22,4 +22,7 @@ navigation:
   - name: Landscape / Cityscape
     id: a936053a-f044-463c-b45f-6430ec0e541c
     type: content
+  - name: Portraits
+    id: 8ed369e1-f401-41e9-b4b8-4c438c206d86
+    type: content
 title: Gautier Houba Photography
