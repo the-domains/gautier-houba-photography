@@ -1,4 +1,3 @@
-layout_spectrum: 0.31275514396838844
 typography_spectrum: 0.7873829733580351
 color:
   brandStrength: 0.34504110226407647
@@ -11,4 +10,6 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.31275514396838844
 name: Gautier Houba Photography
+title: Gautier Houba Photography
