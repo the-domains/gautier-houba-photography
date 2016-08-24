@@ -25,4 +25,7 @@ navigation:
   - name: Portraits
     id: 8ed369e1-f401-41e9-b4b8-4c438c206d86
     type: content
+  - name: Live Music
+    id: a2ac305e-8eff-4f7f-8caf-4721011d61c8
+    type: content
 title: Gautier Houba Photography
