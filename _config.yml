@@ -1,16 +1,16 @@
-typography_spectrum: 0.25563974864780903
+layout_spectrum: 0.3648913372308016
+typography_spectrum: 0.9088514561299235
 color:
-  brandStrength: 0.03885311330668628
-  lightness: 0.5155819884967059
-  saturation: 0.9040965258609504
-  rhythmicContrast: 0.762865160824731
+  brandStrength: 0.5575897693634033
+  lightness: 0.5376984251197428
+  saturation: 0.6898494092747569
+  rhythmicContrast: 0.8656621361151338
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.07654046802781522
 name: Gautier Houba
 navigation:
   - name: Artists at work
