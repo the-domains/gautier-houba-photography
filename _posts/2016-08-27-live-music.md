@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-27T11:55:35.345Z'
+datePublished: '2016-08-27T21:02:06.095Z'
 sourcePath: _posts/2016-08-27-live-music.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T11:55:34.458Z'
+dateModified: '2016-08-27T21:02:05.500Z'
 title: Live Music
 publisher: {}
 description: ''
